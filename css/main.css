@@ -36,7 +36,7 @@
 	padding: 5em 0;
 }
 
-.title-section{
+.title-second{
 	color: #d2527f;
 }
 
@@ -45,7 +45,7 @@
 }
 
 .features:hover{
-	background-color: #f2f2f2;
+	background-color: #F2F2F2;
 	cursor: pointer;
 }
 
@@ -57,4 +57,26 @@ p{
 	line-height: 28px;
 	color: #666;
 	margin-top: 1em;
+}
+
+/*----------tercera seccion-------------*/
+
+.third-section{
+	background-color: #f2f2f2;
+	height: 100vh;
+}
+
+.btn-default{
+	color: #fff;
+	background-color: #d2527f;
+	border-color: #b4215d;
+}
+
+.btn-default:hover{
+	background-color: #c53a6d;
+	color: #fff;
+}
+
+.btns{
+	padding-top: 5em;
 }
